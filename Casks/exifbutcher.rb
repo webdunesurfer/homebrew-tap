@@ -1,6 +1,6 @@
 cask "exifbutcher" do
-  version "1.0.1"
-  sha256 "0cadd5586ec5fa22a82423fca7af2b8ade23b8d034af7ef17c11357834a54194"
+  version "1.0.2"
+  sha256 "1f61fe9a3e5415ce39e043b387dfb1dc319476a1ad0a5c4fe78565304278d8cc"
 
   url "https://github.com/webdunesurfer/ExifButcher/releases/download/v#{version}/ExifButcher-#{version}.dmg"
   name "ExifButcher"
